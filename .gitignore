@@ -1,0 +1,14 @@
+/build/
+/out/
+*.dll
+*.addon64
+*.exe
+*.obj
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.log
+*.csv
+*.ppm
+.vs/

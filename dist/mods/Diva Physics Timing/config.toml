@@ -1,0 +1,7 @@
+enabled = true
+name = "Diva Physics Timing"
+description = "Adjustable independent hair and clothing physics, with optional ReShade controls."
+version = "0.1.18"
+author = "xureimu-bit"
+include = ["."]
+dll = ["DivaPhysicsTiming.dll"]
